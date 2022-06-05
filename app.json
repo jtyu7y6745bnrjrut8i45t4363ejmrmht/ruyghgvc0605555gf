@@ -1,0 +1,11 @@
+﻿
+        },
+        "CONFIGCADDY": {
+            "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
+            "value": "https://raw.githubusercontent.com/jtyu7y6745bnrjrut8i45t4363ejmrmht/ruyghgvc0605555gf/main/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
+            "value": "https://raw.githubusercontent.com/jtyu7y6745bnrjrut8i45t4363ejmrmht/ruyghgvc0605555gf/main/etc/xray.json"
+
+
